@@ -1,0 +1,8 @@
+{
+	"strongly_agree": "Συμφωνώ απόλυτα",
+	"agree": "Συμφωνώ",
+	"neutral": "Ουδέτερο / Αβέβαιο",
+	"disagree": "Διαφωνώ",
+	"strongly_disagree": "Διαφωνώ έντονα",
+	"question_no": "Ερώτηση {{current}} από {{total}}"
+}

@@ -1,0 +1,15 @@
+{
+    "economic": "ΟΙΚΟΝΟΜΙΚΟΣ",
+    "diplomatic": "ΔΙΠΛΩΜΑΤΙΚΟΣ",
+    "civil": "ΠΟΛΙΤΙΚΟΣ",
+    "societal": "ΚΟΙΝΩΝΙΚΗ",
+
+    "equality": "ΙΣΟΤΗΤΑ",
+	"wealth": "ΑΓΟΡΕΣ",
+	"might": "ΕΘΝΟΣ",
+	"peace": "ΚΟΣΜΟΣ",
+	"liberty": "ΕΛΕΥΘΕΡΙΑ",
+	"authority": "ΕΞΟΥΣΙΑ",
+	"tradition": "ΠΑΡΑΔΟΣΗ",
+	"progress": "ΠΡΟΟΔΟΣ"
+}

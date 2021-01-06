@@ -2,6 +2,10 @@ function i18n_load_ns(namespaces, callback) {
     var options = {
         // "whitelist": ["en", "de"],
         // "nonExplicitWhitelist": true,
+        "backend": {
+          "loadPath": "./locales/{{lng}}/{{ns}}.json",
+        },
+        "lng" : "el",
         "fallbackLng": "en"
     }
 
