@@ -1,8 +1,8 @@
 {
-    "economic": "ΟΙΚΟΝΟΜΙΚΟΣ",
-    "diplomatic": "ΔΙΠΛΩΜΑΤΙΚΟΣ",
-    "civil": "ΠΟΛΙΤΙΚΟΣ",
-    "societal": "ΚΟΙΝΩΝΙΚΗ",
+    "economic": "ΟΙΚΟΝΟΜΙΑ",
+    "diplomatic": "ΔΙΠΛΩΜΑΤΙΑ",
+    "civil": "ΠΟΛΙΤΙΚΗ",
+    "societal": "ΚΟΙΝΩΝΙΑ",
 
     "equality": "ΙΣΟΤΗΤΑ",
 	"wealth": "ΑΓΟΡΕΣ",

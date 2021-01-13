@@ -3,6 +3,6 @@
 	"agree": "Συμφωνώ",
 	"neutral": "Ουδέτερο / Αβέβαιο",
 	"disagree": "Διαφωνώ",
-	"strongly_disagree": "Διαφωνώ έντονα",
+	"strongly_disagree": "Διαφωνώ απόλυτα",
 	"question_no": "Ερώτηση {{current}} από {{total}}"
 }
